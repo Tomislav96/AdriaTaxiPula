@@ -18,6 +18,14 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
+
+### Swal
+```
+npm install sweetalert2
+
+### Email JS
+```
+npm install emailjs
 ```
 
 ### Customize configuration
