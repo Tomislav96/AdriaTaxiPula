@@ -1,4 +1,4 @@
-# adriataxifirestore
+# adriataxi
 
 ## Project setup
 ```
